@@ -1,0 +1,10 @@
+type,description,latitude,longitude,area,severity,date
+Theft,Bike stolen,17.385,78.486,Charminar,2,2026-05-12
+Robbery,Chain snatching,17.386,78.487,Charminar,4,2026-07-02
+Theft,Phone theft,17.440,78.349,Gachibowli,2,2026-06-18
+Assault,Street fight,17.385,78.485,Charminar,3,2026-08-09
+Burglary,House break-in,17.450,78.380,Madhapur,4,2026-08-21
+Robbery,Bag snatching,17.386,78.486,Charminar,4,2026-09-01
+Theft,Shop theft,17.441,78.350,Gachibowli,2,2026-09-11
+Assault,Bar fight,17.451,78.381,Madhapur,3,2026-04-15
+Theft,Vehicle theft,17.385,78.487,Charminar,3,2026-03-03

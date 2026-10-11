@@ -1,0 +1,5 @@
+type,description,latitude,longitude,area,severity,date,hour
+Theft,Bike stolen,17.385,78.486,Charminar,2,2026-09-12,20
+Robbery,Chain snatching,17.386,78.487,Charminar,4,2026-09-20,22
+Cyber Fraud,Fake KYC call,17.440,78.349,Gachibowli,3,2026-09-18,11
+Burglary,House break-in,17.450,78.380,Madhapur,4,2026-09-25,2

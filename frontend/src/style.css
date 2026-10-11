@@ -1,0 +1,8 @@
+body{margin:0;font-family:system-ui,sans-serif;background:#f4f7fb;color:#12263f}
+header{background:#0d2b5b;color:#fff;padding:14px 24px;display:flex;justify-content:space-between;align-items:center}
+.wrap{max-width:1100px;margin:20px auto;padding:0 16px;display:grid;gap:16px}
+.card{background:#fff;border-radius:10px;padding:16px;box-shadow:0 1px 4px #0002}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:16px}@media(max-width:800px){.grid{grid-template-columns:1fr}}
+input,select,button{padding:8px;margin:4px 4px 4px 0;border-radius:6px;border:1px solid #bbc;font-size:14px}
+button{background:#0d2b5b;color:#fff;border:0;cursor:pointer}
+.login{max-width:320px;margin:80px auto}

@@ -1,0 +1,21 @@
+services:
+  backend:
+    build: ./backend
+    environment:
+      POLICE_CODE: POL-2026
+    volumes:
+      - portal-data:/data
+    ports:
+      - "8080:8080"
+
+  frontend:
+    build: ./frontend
+    environment:
+      BACKEND_URL: http://backend:8080
+    depends_on:
+      - backend
+    ports:
+      - "3000:80"
+
+volumes:
+  portal-data:
