@@ -1,0 +1,9 @@
+{
+  "name": "crime-hotspot-portal",
+  "version": "1.0.0",
+  "description": "Crime Hotspot Analysis & Prediction Portal (frontend + backend, zero dependencies)",
+  "main": "backend/server.js",
+  "scripts": { "start": "node backend/server.js" },
+  "engines": { "node": ">=16" },
+  "license": "MIT"
+}
